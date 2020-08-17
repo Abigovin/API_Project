@@ -1,0 +1,80 @@
+2020-08-11 17:14:17,265 INFO  [log] Samsung m31
+2020-08-11 17:14:17,267 INFO  [log] 17000
+2020-08-11 17:14:20,187 INFO  [log] Samsung m31
+2020-08-11 17:14:20,188 INFO  [log] 17000
+2020-08-11 17:14:20,195 INFO  [log] Product is verified
+2020-08-11 17:14:21,825 INFO  [log]  2 and 3
+2020-08-11 17:14:21,835 INFO  [log] SKU0000908
+2020-08-11 17:14:21,837 INFO  [log] Samsung m31s
+2020-08-11 17:14:21,844 INFO  [log] 20000
+2020-08-11 17:14:21,849 INFO  [log] SKU0000908
+2020-08-11 17:14:21,849 INFO  [log] Samsung m31s
+2020-08-11 17:14:21,850 INFO  [log] 20000
+2020-08-11 17:14:21,853 INFO  [log] SKU0000908
+2020-08-11 17:14:21,854 INFO  [log] Samsung m31s
+2020-08-11 17:14:21,860 INFO  [log] 20000
+2020-08-11 17:14:23,193 INFO  [log] Samsung m31s
+2020-08-11 17:14:23,193 INFO  [log] 20000
+2020-08-11 17:14:25,890 INFO  [log] Samsung m31s
+2020-08-11 17:14:25,891 INFO  [log] 20000
+2020-08-11 17:14:25,891 INFO  [log] Product is verified
+2020-08-11 17:14:26,945 INFO  [log] Status: FINISHED, time taken for TestCase was: 4963 ms
+2020-08-11 17:14:26,965 INFO  [log] Number of test steps which ran: 5
+2020-08-11 17:14:27,348 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <PRODUCT.SKU>SKU10082001</PRODUCT.SKU>
+            <PRODUCT.NAME>Apple11</PRODUCT.NAME>
+            <PRODUCT.PRICE>69000</PRODUCT.PRICE>
+        </Row>
+        <Row rowNumber="2">
+            <PRODUCT.SKU>SKU10082002</PRODUCT.SKU>
+            <PRODUCT.NAME>Samsung m31</PRODUCT.NAME>
+            <PRODUCT.PRICE>17000</PRODUCT.PRICE>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-08-11 17:14:27,447 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <PRODUCT.SKU>SKU10082001</PRODUCT.SKU>
+            <PRODUCT.NAME>Apple11</PRODUCT.NAME>
+            <PRODUCT.PRICE>69000</PRODUCT.PRICE>
+        </Row>
+        <Row rowNumber="2">
+            <PRODUCT.SKU>SKU10082002</PRODUCT.SKU>
+            <PRODUCT.NAME>Samsung m31</PRODUCT.NAME>
+            <PRODUCT.PRICE>17000</PRODUCT.PRICE>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-08-11 17:14:27,570 INFO  [log] 2
+2020-08-11 17:14:27,579 INFO  [log] SKU10082001
+2020-08-11 17:14:27,583 INFO  [log] Apple11
+2020-08-11 17:14:27,589 INFO  [log] 69000
+2020-08-11 17:14:29,016 INFO  [log] Apple11
+2020-08-11 17:14:29,020 INFO  [log] 69000
+2020-08-11 17:14:31,906 INFO  [log] Apple11
+2020-08-11 17:14:31,906 INFO  [log] 69000
+2020-08-11 17:14:31,908 INFO  [log] Product is verified
+2020-08-11 17:14:33,020 INFO  [log] Status: FINISHED, time taken for TestCase was: 5381 ms
+2020-08-11 17:14:33,021 INFO  [log] Number of test steps which ran: 5
+2020-08-11 17:14:33,025 INFO  [log] SKU10082002
+2020-08-11 17:14:33,028 INFO  [log] Samsung m31
+2020-08-11 17:14:33,033 INFO  [log] 17000
+2020-08-11 17:14:34,451 INFO  [log] Samsung m31
+2020-08-11 17:14:34,454 INFO  [log] 17000
+2020-08-11 17:14:37,010 INFO  [log] Samsung m31
+2020-08-11 17:14:37,013 INFO  [log] 17000
+2020-08-11 17:14:37,014 INFO  [log] Product is verified
+2020-08-11 17:14:38,067 INFO  [log] Status: FINISHED, time taken for TestCase was: 4995 ms
+2020-08-11 17:14:38,070 INFO  [log] Number of test steps which ran: 5
+2020-08-11 17:14:39,345 INFO  [log] Samsung m31
+2020-08-11 17:14:39,350 INFO  [log] 17000
+2020-08-11 17:14:41,816 INFO  [log] Samsung m31
+2020-08-11 17:14:41,817 INFO  [log] 17000
+2020-08-11 17:14:41,817 INFO  [log] Product is verified
+2020-08-11 17:14:42,836 INFO  [log] Status: FINISHED, time taken for TestCase was: 4651 ms
+2020-08-11 17:14:42,840 INFO  [log] Number of test steps which ran: 5
